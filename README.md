@@ -1,4 +1,4 @@
-# 👋 air1th
+# 🐱 air1th
 
 **💬 Prompt Engineer** · **⚡ VibeCoding** · **🧩 AI 驱动的前端项目**
 
@@ -19,6 +19,6 @@
 
 ## 🔗 链接
 
-- **📺 Bilibili** — [https://space.bilibili.com/383118371](https://space.bilibili.com/383118371)
-- **⛄ 爱发电** — [https://afdian.com/a/air1th](https://afdian.com/a/air1th)
-- **❤️ CooStack**（男朋友的 GitHub）— [https://github.com/CooStack](https://github.com/CooStack)
+- **📺 Bilibili** — [Bilibili](https://space.bilibili.com/383118371)
+- **⛄ 爱发电** — [爱发电](https://afdian.com/a/air1th)
+- **❤️ CooStack**（男朋友的 GitHub）— [CooStack](https://github.com/CooStack)
