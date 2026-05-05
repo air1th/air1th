@@ -19,6 +19,6 @@
 
 ## 🔗 链接
 
-- **📺 Bilibili** — [Bilibili](https://space.bilibili.com/383118371)
-- **⛄ 爱发电** — [爱发电](https://afdian.com/a/air1th)
-- **❤️ CooStack**（男朋友的 GitHub）— [CooStack](https://github.com/CooStack)
+- **📺 [Bilibili](https://space.bilibili.com/383118371)**
+- **⛄ [爱发电](https://afdian.com/a/air1th)**
+- **❤️ [CooStack](https://github.com/CooStack)**（男朋友的 GitHub）
